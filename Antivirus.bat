@@ -25,4 +25,5 @@ goto start
 echo Lucky :) You have no viruses
 echo system protected
 pause 
+exit
 
